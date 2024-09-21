@@ -1,2 +1,2 @@
 # Google-Python-Exercices
-Code for Google's Python Class
+Google's Python Code Class
